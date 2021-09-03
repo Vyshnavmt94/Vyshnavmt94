@@ -39,8 +39,10 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 [<img align="left" height="20" alt="pycharm" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/pycharm.svg" />][website]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
+
+
 [<img align="left" height="20" alt="jupyter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jupyter.svg" />][website]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 [<img align="left" alt="Sublime Text" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />][website]
 [<img align="left" height="20" alt="jenkins" width="50px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" />][website]
 [<img align="left" height="20" alt="sonarqube" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sonarqube.svg" />][website]
