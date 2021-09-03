@@ -29,7 +29,7 @@
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
 [<img align="left" height="30" alt="Tensorflow" width="60px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" />][website]
 [<img align="left" height="30" alt="pytorch" width="60px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" />][website]
-[<img align="left" height="30" alt="keras" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/keras.svg" />][website]
+[<img align="left" height="20" alt="keras" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/keras.svg" />][website]
 [<img align="left" height="30" alt="scikit-learn" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/scikit-learn.svg" />][website]
 [<img align="left" height="30" alt="opencv" width="60px" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" />][website]
 [<img align="left" height="30" alt="numpy" width="60px" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" />][website]
@@ -40,6 +40,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 [<img align="left" height="20" alt="pycharm" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/pycharm.svg" />][website]
 
+<br />
 
 [<img align="left" height="20" alt="jupyter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jupyter.svg" />][website]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
@@ -48,7 +49,7 @@
 [<img align="left" height="20" alt="sonarqube" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sonarqube.svg" />][website]
 [<img align="left" height="20" alt="jirasoftware" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jirasoftware.svg" />][website]
 
-<br />
+
 <br />
 
 
