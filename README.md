@@ -2,9 +2,9 @@
 
 ## I'm an AI Engineer | Python Developer focused on Computer vision, NLP.
 
-- 🔭 I am working on deep learning framework Tensorflow and Pytorch!
-- 🌱 I’m currently learning new frameworks and modules required for Data science 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🔭 I am working on deep learning frameworks Tensorflow and Pytorch!
+- 🌱 I’m currently learning new frameworks and modules required for Data science
+- 👯 I’m looking to collaborate with other experts in the field of Data science
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play badminton and ukulele
 
@@ -39,7 +39,7 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 [<img align="left" height="20" alt="pycharm" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/pycharm.svg" />][website]
-
+<br />
 [<img align="left" height="20" alt="jupyter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jupyter.svg" />][website]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 [<img align="left" alt="Sublime Text" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />][website]
@@ -48,7 +48,7 @@
 [<img align="left" height="20" alt="jirasoftware" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jirasoftware.svg" />][website]
 
 <br />
-<br />
+
 
 ---
 
