@@ -61,7 +61,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vyshnavmt94&theme=tokyonight" />
 
-[website]: https://Vyshnavmt94.github.io/
+[website]: https://sites.google.com/view/vyshnav-m-t
 [comment]: <> ([twitter]: https://twitter.com/vyshnav.mt)
 [instagram]: https://www.instagram.com/vyshnav.mt/
 [linkedin]: https://www.linkedin.com/in/vyshnav-m-t-b922b1103/
