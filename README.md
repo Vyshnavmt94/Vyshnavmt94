@@ -56,7 +56,7 @@
 
 <img align="left" alt="vyshnav mt's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vyshnavmt94&show_icons=true&hide_border=true&theme=tokyonight&hide=stars&count_private=true" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vyshnavmt94&theme=tokyonight" />
+[comment]: <> (<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vyshnavmt94&theme=tokyonight" />)
 
 [website]: https://Vyshnavmt94.github.io/
 [comment]: <> ([twitter]: https://twitter.com/vyshnav.mt)
